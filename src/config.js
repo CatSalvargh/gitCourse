@@ -1,3 +1,3 @@
 console.log('config');
 console.log('version 2.2 amend');
-console.log('testing remote repository features 1');
+console.log('testing remote repository features 2');
