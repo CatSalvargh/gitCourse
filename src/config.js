@@ -1,3 +1,3 @@
 console.log('config');
-console.log('version 2.2 amend');
-console.log('testing remote repository features 2.1 amend');
+console.log('version 3');
+console.log('testing clone and new repository');
